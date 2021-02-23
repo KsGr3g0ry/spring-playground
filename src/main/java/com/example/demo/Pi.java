@@ -17,4 +17,3 @@ public class Pi {
     takes a GET request to /math/pi
      renders the string 3.141592653589793
     */
-    
