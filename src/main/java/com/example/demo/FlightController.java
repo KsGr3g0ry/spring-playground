@@ -40,4 +40,11 @@ public class FlightController {
 
     }
 
-}
+    @PostMapping("/flights/tickets/total")
+    public void getTotal(@RequestBody Flight flights){ //class that has the properties to access
+
+    }
+
+
+    }
+
